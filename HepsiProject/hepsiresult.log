@@ -1,0 +1,780 @@
+D:\IntellijIdea\HepsiProject\target\classes\scenarios\SCN1
+Product created; code P1, price 100.0, stock 1000
+Campaign created; name C1, product P1, duration 10, limit 20, target sales count 100
+Product P1 info; price 100.0, stock 1000
+Time is 01:00
+Product P1 info; price 95.0, stock 1000
+Time is 02:00
+Product P1 info; price 90.0, stock 1000
+Time is 03:00
+Product P1 info; price 85.0, stock 1000
+Time is 04:00
+Product P1 info; price 80.0, stock 1000
+Time is 05:00
+Product P1 info; price 80.0, stock 1000
+Time is 06:00
+Product P1 info; price 80.0, stock 1000
+Time is 07:00
+Product P1 info; price 80.0, stock 1000
+Time is 08:00
+Product P1 info; price 80.0, stock 1000
+Time is 09:00
+Product P1 info; price 80.0, stock 1000
+Time is 10:00
+Product P1 info; price 80.0, stock 1000
+Campaign C1 info; Status ENDED, Target Sales 100 Total Sales 0, Turnover 0.0, Average Item Price  -
+D:\IntellijIdea\HepsiProject\target\classes\scenarios\SCN2
+Product created; code P1, price 100.0, stock 1000
+Campaign created; name C1, product P1, duration 10, limit 20, target sales count 100
+Order created; product P1, quantity 10
+Product P1 info; price 100.0, stock 990
+Time is 01:00
+Order created; product P1, quantity 15
+Product P1 info; price 95.0, stock 975
+Time is 02:00
+Order created; product P1, quantity 20
+Product P1 info; price 90.0, stock 955
+Time is 03:00
+Order created; product P1, quantity 25
+Product P1 info; price 85.0, stock 930
+Time is 04:00
+Order created; product P1, quantity 30
+Product P1 info; price 80.0, stock 900
+Time is 05:00
+Order created; product P1, quantity 30
+Product P1 info; price 100.0, stock 870
+Time is 06:00
+Order created; product P1, quantity 25
+Product P1 info; price 100.0, stock 845
+Time is 07:00
+Order created; product P1, quantity 20
+Product P1 info; price 100.0, stock 825
+Time is 08:00
+Order created; product P1, quantity 15
+Product P1 info; price 100.0, stock 810
+Time is 09:00
+Order created; product P1, quantity 10
+Product P1 info; price 100.0, stock 800
+Time is 10:00
+Product P1 info; price 100.0, stock 800
+Campaign C1 info; Status ENDED, Target Sales 100 Total Sales 100, Turnover 18750.0, Average Item Price 93.75
+D:\IntellijIdea\HepsiProject\target\classes\scenarios\SCN3
+Product created; code P1, price 100.0, stock 1000
+Campaign created; name C1, product P1, duration 10, limit 20, target sales count 100
+Order created; product P1, quantity 30
+Product P1 info; price 100.0, stock 970
+Time is 01:00
+Order created; product P1, quantity 15
+Product P1 info; price 95.0, stock 955
+Time is 02:00
+Order created; product P1, quantity 3
+Product P1 info; price 90.0, stock 952
+Time is 03:00
+Order created; product P1, quantity 1
+Product P1 info; price 85.0, stock 951
+Time is 04:00
+Order created; product P1, quantity 2
+Product P1 info; price 80.0, stock 949
+Time is 05:00
+Order created; product P1, quantity 1
+Product P1 info; price 80.0, stock 948
+Time is 06:00
+Order created; product P1, quantity 2
+Product P1 info; price 80.0, stock 946
+Time is 07:00
+Product P1 info; price 80.0, stock 946
+Time is 08:00
+Order created; product P1, quantity 20
+Product P1 info; price 80.0, stock 926
+Time is 09:00
+Order created; product P1, quantity 20
+Product P1 info; price 80.0, stock 906
+Time is 10:00
+Product P1 info; price 80.0, stock 906
+Campaign C1 info; Status ENDED, Target Sales 100 Total Sales 94, Turnover 8380.0, Average Item Price 89.14893617021276
+D:\IntellijIdea\HepsiProject\target\classes\scenarios\SCN4
+Product created; code P1, price 100.0, stock 1000
+Campaign created; name C1, product P1, duration 10, limit 20, target sales count 100
+Order created; product P1, quantity 10
+Product P1 info; price 100.0, stock 990
+Time is 01:00
+Order created; product P1, quantity 10
+Product P1 info; price 95.0, stock 980
+Time is 02:00
+Order created; product P1, quantity 9
+Product P1 info; price 90.0, stock 971
+Time is 03:00
+Order created; product P1, quantity 11
+Product P1 info; price 85.0, stock 960
+Time is 04:00
+Order created; product P1, quantity 8
+Product P1 info; price 80.0, stock 952
+Time is 05:00
+Order created; product P1, quantity 12
+Product P1 info; price 80.0, stock 940
+Time is 06:00
+Order created; product P1, quantity 10
+Product P1 info; price 80.0, stock 930
+Time is 07:00
+Order created; product P1, quantity 11
+Product P1 info; price 80.0, stock 919
+Time is 08:00
+Order created; product P1, quantity 9
+Product P1 info; price 80.0, stock 910
+Time is 09:00
+Order created; product P1, quantity 10
+Product P1 info; price 80.0, stock 900
+Time is 10:00
+Product P1 info; price 80.0, stock 900
+Campaign C1 info; Status ENDED, Target Sales 100 Total Sales 100, Turnover 8495.0, Average Item Price 84.95
+D:\IntellijIdea\HepsiProject\target\classes\scenarios\SCN1
+Product created; code P1, price 100.0, stock 1000
+Campaign created; name C1, product P1, duration 10, limit 20, target sales count 100
+Product P1 info; price 100.0, stock 1000
+Time is 01:00
+Product P1 info; price 95.0, stock 1000
+Time is 02:00
+Product P1 info; price 90.0, stock 1000
+Time is 03:00
+Product P1 info; price 85.0, stock 1000
+Time is 04:00
+Product P1 info; price 80.0, stock 1000
+Time is 05:00
+Product P1 info; price 80.0, stock 1000
+Time is 06:00
+Product P1 info; price 80.0, stock 1000
+Time is 07:00
+Product P1 info; price 80.0, stock 1000
+Time is 08:00
+Product P1 info; price 80.0, stock 1000
+Time is 09:00
+Product P1 info; price 80.0, stock 1000
+Time is 10:00
+Product P1 info; price 80.0, stock 1000
+Campaign C1 info; Status ENDED, Target Sales 100 Total Sales 0, Turnover 0.0, Average Item Price  -
+D:\IntellijIdea\HepsiProject\target\classes\scenarios\SCN2
+Product created; code P1, price 100.0, stock 1000
+Campaign created; name C1, product P1, duration 10, limit 20, target sales count 100
+Order created; product P1, quantity 10
+Product P1 info; price 100.0, stock 990
+Time is 01:00
+Order created; product P1, quantity 15
+Product P1 info; price 95.0, stock 975
+Time is 02:00
+Order created; product P1, quantity 20
+Product P1 info; price 90.0, stock 955
+Time is 03:00
+Order created; product P1, quantity 25
+Product P1 info; price 85.0, stock 930
+Time is 04:00
+Order created; product P1, quantity 30
+Product P1 info; price 80.0, stock 900
+Time is 05:00
+Order created; product P1, quantity 30
+Product P1 info; price 100.0, stock 870
+Time is 06:00
+Order created; product P1, quantity 25
+Product P1 info; price 100.0, stock 845
+Time is 07:00
+Order created; product P1, quantity 20
+Product P1 info; price 100.0, stock 825
+Time is 08:00
+Order created; product P1, quantity 15
+Product P1 info; price 100.0, stock 810
+Time is 09:00
+Order created; product P1, quantity 10
+Product P1 info; price 100.0, stock 800
+Time is 10:00
+Product P1 info; price 100.0, stock 800
+Campaign C1 info; Status ENDED, Target Sales 100 Total Sales 100, Turnover 18750.0, Average Item Price 93.75
+D:\IntellijIdea\HepsiProject\target\classes\scenarios\SCN3
+Product created; code P1, price 100.0, stock 1000
+Campaign created; name C1, product P1, duration 10, limit 20, target sales count 100
+Order created; product P1, quantity 30
+Product P1 info; price 100.0, stock 970
+Time is 01:00
+Order created; product P1, quantity 15
+Product P1 info; price 95.0, stock 955
+Time is 02:00
+Order created; product P1, quantity 3
+Product P1 info; price 90.0, stock 952
+Time is 03:00
+Order created; product P1, quantity 1
+Product P1 info; price 85.0, stock 951
+Time is 04:00
+Order created; product P1, quantity 2
+Product P1 info; price 80.0, stock 949
+Time is 05:00
+Order created; product P1, quantity 1
+Product P1 info; price 80.0, stock 948
+Time is 06:00
+Order created; product P1, quantity 2
+Product P1 info; price 80.0, stock 946
+Time is 07:00
+Product P1 info; price 80.0, stock 946
+Time is 08:00
+Order created; product P1, quantity 20
+Product P1 info; price 80.0, stock 926
+Time is 09:00
+Order created; product P1, quantity 20
+Product P1 info; price 80.0, stock 906
+Time is 10:00
+Product P1 info; price 80.0, stock 906
+Campaign C1 info; Status ENDED, Target Sales 100 Total Sales 94, Turnover 8380.0, Average Item Price 89.14893617021276
+D:\IntellijIdea\HepsiProject\target\classes\scenarios\SCN4
+Product created; code P1, price 100.0, stock 1000
+Campaign created; name C1, product P1, duration 10, limit 20, target sales count 100
+Order created; product P1, quantity 10
+Product P1 info; price 100.0, stock 990
+Time is 01:00
+Order created; product P1, quantity 10
+Product P1 info; price 95.0, stock 980
+Time is 02:00
+Order created; product P1, quantity 9
+Product P1 info; price 90.0, stock 971
+Time is 03:00
+Order created; product P1, quantity 11
+Product P1 info; price 85.0, stock 960
+Time is 04:00
+Order created; product P1, quantity 8
+Product P1 info; price 80.0, stock 952
+Time is 05:00
+Order created; product P1, quantity 12
+Product P1 info; price 80.0, stock 940
+Time is 06:00
+Order created; product P1, quantity 10
+Product P1 info; price 80.0, stock 930
+Time is 07:00
+Order created; product P1, quantity 11
+Product P1 info; price 80.0, stock 919
+Time is 08:00
+Order created; product P1, quantity 9
+Product P1 info; price 80.0, stock 910
+Time is 09:00
+Order created; product P1, quantity 10
+Product P1 info; price 80.0, stock 900
+Time is 10:00
+Product P1 info; price 80.0, stock 900
+Campaign C1 info; Status ENDED, Target Sales 100 Total Sales 100, Turnover 8495.0, Average Item Price 84.95
+D:\IntellijIdea\HepsiProject\target\classes\scenarios\SCN1
+Product created; code P1, price 100.0, stock 1000
+Campaign created; name C1, product P1, duration 10, limit 20, target sales count 100
+Product P1 info; price 100.0, stock 1000
+Time is 01:00
+Product P1 info; price 95.0, stock 1000
+Time is 02:00
+Product P1 info; price 90.0, stock 1000
+Time is 03:00
+Product P1 info; price 85.0, stock 1000
+Time is 04:00
+Product P1 info; price 80.0, stock 1000
+Time is 05:00
+Product P1 info; price 80.0, stock 1000
+Time is 06:00
+Product P1 info; price 80.0, stock 1000
+Time is 07:00
+Product P1 info; price 80.0, stock 1000
+Time is 08:00
+Product P1 info; price 80.0, stock 1000
+Time is 09:00
+Product P1 info; price 80.0, stock 1000
+Time is 10:00
+Product P1 info; price 80.0, stock 1000
+Campaign C1 info; Status ENDED, Target Sales 100 Total Sales 0, Turnover 0.0, Average Item Price  -
+D:\IntellijIdea\HepsiProject\target\classes\scenarios\SCN2
+Product created; code P1, price 100.0, stock 1000
+Campaign created; name C1, product P1, duration 10, limit 20, target sales count 100
+Order created; product P1, quantity 10
+Product P1 info; price 100.0, stock 990
+Time is 01:00
+Order created; product P1, quantity 15
+Product P1 info; price 95.0, stock 975
+Time is 02:00
+Order created; product P1, quantity 20
+Product P1 info; price 90.0, stock 955
+Time is 03:00
+Order created; product P1, quantity 25
+Product P1 info; price 85.0, stock 930
+Time is 04:00
+Order created; product P1, quantity 30
+Product P1 info; price 80.0, stock 900
+Time is 05:00
+Order created; product P1, quantity 30
+Product P1 info; price 100.0, stock 870
+Time is 06:00
+Order created; product P1, quantity 25
+Product P1 info; price 100.0, stock 845
+Time is 07:00
+Order created; product P1, quantity 20
+Product P1 info; price 100.0, stock 825
+Time is 08:00
+Order created; product P1, quantity 15
+Product P1 info; price 100.0, stock 810
+Time is 09:00
+Order created; product P1, quantity 10
+Product P1 info; price 100.0, stock 800
+Time is 10:00
+Product P1 info; price 100.0, stock 800
+Campaign C1 info; Status ENDED, Target Sales 100 Total Sales 100, Turnover 18750.0, Average Item Price 93.75
+D:\IntellijIdea\HepsiProject\target\classes\scenarios\SCN3
+Product created; code P1, price 100.0, stock 1000
+Campaign created; name C1, product P1, duration 10, limit 20, target sales count 100
+Order created; product P1, quantity 30
+Product P1 info; price 100.0, stock 970
+Time is 01:00
+Order created; product P1, quantity 15
+Product P1 info; price 95.0, stock 955
+Time is 02:00
+Order created; product P1, quantity 3
+Product P1 info; price 90.0, stock 952
+Time is 03:00
+Order created; product P1, quantity 1
+Product P1 info; price 85.0, stock 951
+Time is 04:00
+Order created; product P1, quantity 2
+Product P1 info; price 80.0, stock 949
+Time is 05:00
+Order created; product P1, quantity 1
+Product P1 info; price 80.0, stock 948
+Time is 06:00
+Order created; product P1, quantity 2
+Product P1 info; price 80.0, stock 946
+Time is 07:00
+Product P1 info; price 80.0, stock 946
+Time is 08:00
+Order created; product P1, quantity 20
+Product P1 info; price 80.0, stock 926
+Time is 09:00
+Order created; product P1, quantity 20
+Product P1 info; price 80.0, stock 906
+Time is 10:00
+Product P1 info; price 80.0, stock 906
+Campaign C1 info; Status ENDED, Target Sales 100 Total Sales 94, Turnover 8380.0, Average Item Price 89.14893617021276
+D:\IntellijIdea\HepsiProject\target\classes\scenarios\SCN4
+Product created; code P1, price 100.0, stock 1000
+Campaign created; name C1, product P1, duration 10, limit 20, target sales count 100
+Order created; product P1, quantity 10
+Product P1 info; price 100.0, stock 990
+Time is 01:00
+Order created; product P1, quantity 10
+Product P1 info; price 95.0, stock 980
+Time is 02:00
+Order created; product P1, quantity 9
+Product P1 info; price 90.0, stock 971
+Time is 03:00
+Order created; product P1, quantity 11
+Product P1 info; price 85.0, stock 960
+Time is 04:00
+Order created; product P1, quantity 8
+Product P1 info; price 80.0, stock 952
+Time is 05:00
+Order created; product P1, quantity 12
+Product P1 info; price 80.0, stock 940
+Time is 06:00
+Order created; product P1, quantity 10
+Product P1 info; price 80.0, stock 930
+Time is 07:00
+Order created; product P1, quantity 11
+Product P1 info; price 80.0, stock 919
+Time is 08:00
+Order created; product P1, quantity 9
+Product P1 info; price 80.0, stock 910
+Time is 09:00
+Order created; product P1, quantity 10
+Product P1 info; price 80.0, stock 900
+Time is 10:00
+Product P1 info; price 80.0, stock 900
+Campaign C1 info; Status ENDED, Target Sales 100 Total Sales 100, Turnover 8495.0, Average Item Price 84.95
+D:\IntellijIdea\HepsiProject\target\classes\scenarios\SCN1
+Product created; code P1, price 100.0, stock 1000
+Campaign created; name C1, product P1, duration 10, limit 20, target sales count 100
+Product P1 info; price 100.0, stock 1000
+Time is 01:00
+Product P1 info; price 95.0, stock 1000
+Time is 02:00
+Product P1 info; price 90.0, stock 1000
+Time is 03:00
+Product P1 info; price 85.0, stock 1000
+Time is 04:00
+Product P1 info; price 80.0, stock 1000
+Time is 05:00
+Product P1 info; price 80.0, stock 1000
+Time is 06:00
+Product P1 info; price 80.0, stock 1000
+Time is 07:00
+Product P1 info; price 80.0, stock 1000
+Time is 08:00
+Product P1 info; price 80.0, stock 1000
+Time is 09:00
+Product P1 info; price 80.0, stock 1000
+Time is 10:00
+Product P1 info; price 80.0, stock 1000
+Campaign C1 info; Status ENDED, Target Sales 100 Total Sales 0, Turnover 0.0, Average Item Price  -
+D:\IntellijIdea\HepsiProject\target\classes\scenarios\SCN2
+Product created; code P1, price 100.0, stock 1000
+Campaign created; name C1, product P1, duration 10, limit 20, target sales count 100
+Order created; product P1, quantity 10
+Product P1 info; price 100.0, stock 990
+Time is 01:00
+Order created; product P1, quantity 15
+Product P1 info; price 95.0, stock 975
+Time is 02:00
+Order created; product P1, quantity 20
+Product P1 info; price 90.0, stock 955
+Time is 03:00
+Order created; product P1, quantity 25
+Product P1 info; price 85.0, stock 930
+Time is 04:00
+Order created; product P1, quantity 30
+Product P1 info; price 80.0, stock 900
+Time is 05:00
+Order created; product P1, quantity 30
+Product P1 info; price 100.0, stock 870
+Time is 06:00
+Order created; product P1, quantity 25
+Product P1 info; price 100.0, stock 845
+Time is 07:00
+Order created; product P1, quantity 20
+Product P1 info; price 100.0, stock 825
+Time is 08:00
+Order created; product P1, quantity 15
+Product P1 info; price 100.0, stock 810
+Time is 09:00
+Order created; product P1, quantity 10
+Product P1 info; price 100.0, stock 800
+Time is 10:00
+Product P1 info; price 100.0, stock 800
+Campaign C1 info; Status ENDED, Target Sales 100 Total Sales 100, Turnover 18750.0, Average Item Price 93.75
+D:\IntellijIdea\HepsiProject\target\classes\scenarios\SCN3
+Product created; code P1, price 100.0, stock 1000
+Campaign created; name C1, product P1, duration 10, limit 20, target sales count 100
+Order created; product P1, quantity 30
+Product P1 info; price 100.0, stock 970
+Time is 01:00
+Order created; product P1, quantity 15
+Product P1 info; price 95.0, stock 955
+Time is 02:00
+Order created; product P1, quantity 3
+Product P1 info; price 90.0, stock 952
+Time is 03:00
+Order created; product P1, quantity 1
+Product P1 info; price 85.0, stock 951
+Time is 04:00
+Order created; product P1, quantity 2
+Product P1 info; price 80.0, stock 949
+Time is 05:00
+Order created; product P1, quantity 1
+Product P1 info; price 80.0, stock 948
+Time is 06:00
+Order created; product P1, quantity 2
+Product P1 info; price 80.0, stock 946
+Time is 07:00
+Product P1 info; price 80.0, stock 946
+Time is 08:00
+Order created; product P1, quantity 20
+Product P1 info; price 80.0, stock 926
+Time is 09:00
+Order created; product P1, quantity 20
+Product P1 info; price 80.0, stock 906
+Time is 10:00
+Product P1 info; price 80.0, stock 906
+Campaign C1 info; Status ENDED, Target Sales 100 Total Sales 94, Turnover 8380.0, Average Item Price 89.14893617021276
+D:\IntellijIdea\HepsiProject\target\classes\scenarios\SCN4
+Product created; code P1, price 100.0, stock 1000
+Campaign created; name C1, product P1, duration 10, limit 20, target sales count 100
+Order created; product P1, quantity 10
+Product P1 info; price 100.0, stock 990
+Time is 01:00
+Order created; product P1, quantity 10
+Product P1 info; price 95.0, stock 980
+Time is 02:00
+Order created; product P1, quantity 9
+Product P1 info; price 90.0, stock 971
+Time is 03:00
+Order created; product P1, quantity 11
+Product P1 info; price 85.0, stock 960
+Time is 04:00
+Order created; product P1, quantity 8
+Product P1 info; price 80.0, stock 952
+Time is 05:00
+Order created; product P1, quantity 12
+Product P1 info; price 80.0, stock 940
+Time is 06:00
+Order created; product P1, quantity 10
+Product P1 info; price 80.0, stock 930
+Time is 07:00
+Order created; product P1, quantity 11
+Product P1 info; price 80.0, stock 919
+Time is 08:00
+Order created; product P1, quantity 9
+Product P1 info; price 80.0, stock 910
+Time is 09:00
+Order created; product P1, quantity 10
+Product P1 info; price 80.0, stock 900
+Time is 10:00
+Product P1 info; price 80.0, stock 900
+Campaign C1 info; Status ENDED, Target Sales 100 Total Sales 100, Turnover 8495.0, Average Item Price 84.95
+D:\IntellijIdea\HepsiProject\target\classes\scenarios\SCN1
+Product created; code P1, price 100.0, stock 1000
+Campaign created; name C1, product P1, duration 10, limit 20, target sales count 100
+Product P1 info; price 100.0, stock 1000
+Time is 01:00
+Product P1 info; price 95.0, stock 1000
+Time is 02:00
+Product P1 info; price 90.0, stock 1000
+Time is 03:00
+Product P1 info; price 85.0, stock 1000
+Time is 04:00
+Product P1 info; price 80.0, stock 1000
+Time is 05:00
+Product P1 info; price 80.0, stock 1000
+Time is 06:00
+Product P1 info; price 80.0, stock 1000
+Time is 07:00
+Product P1 info; price 80.0, stock 1000
+Time is 08:00
+Product P1 info; price 80.0, stock 1000
+Time is 09:00
+Product P1 info; price 80.0, stock 1000
+Time is 10:00
+Product P1 info; price 80.0, stock 1000
+Campaign C1 info; Status ENDED, Target Sales 100 Total Sales 0, Turnover 0.0, Average Item Price  -
+D:\IntellijIdea\HepsiProject\target\classes\scenarios\SCN2
+Product created; code P1, price 100.0, stock 1000
+Campaign created; name C1, product P1, duration 10, limit 20, target sales count 100
+Order created; product P1, quantity 10
+Product P1 info; price 100.0, stock 990
+Time is 01:00
+Order created; product P1, quantity 15
+Product P1 info; price 95.0, stock 975
+Time is 02:00
+Order created; product P1, quantity 20
+Product P1 info; price 90.0, stock 955
+Time is 03:00
+Order created; product P1, quantity 25
+Product P1 info; price 85.0, stock 930
+Time is 04:00
+Order created; product P1, quantity 30
+Product P1 info; price 80.0, stock 900
+Time is 05:00
+Order created; product P1, quantity 30
+Product P1 info; price 100.0, stock 870
+Time is 06:00
+Order created; product P1, quantity 25
+Product P1 info; price 100.0, stock 845
+Time is 07:00
+Order created; product P1, quantity 20
+Product P1 info; price 100.0, stock 825
+Time is 08:00
+Order created; product P1, quantity 15
+Product P1 info; price 100.0, stock 810
+Time is 09:00
+Order created; product P1, quantity 10
+Product P1 info; price 100.0, stock 800
+Time is 10:00
+Product P1 info; price 100.0, stock 800
+D:\IntellijIdea\HepsiProject\target\classes\scenarios\SCN1
+Product created; code P1, price 100.0, stock 1000
+Campaign created; name C1, product P1, duration 10, limit 20, target sales count 100
+Product P1 info; price 100.0, stock 1000
+Time is 01:00
+Product P1 info; price 95.0, stock 1000
+Time is 02:00
+Product P1 info; price 90.0, stock 1000
+Time is 03:00
+Product P1 info; price 85.0, stock 1000
+Time is 04:00
+Product P1 info; price 80.0, stock 1000
+Time is 05:00
+Product P1 info; price 80.0, stock 1000
+Time is 06:00
+Product P1 info; price 80.0, stock 1000
+Time is 07:00
+Product P1 info; price 80.0, stock 1000
+Time is 08:00
+Product P1 info; price 80.0, stock 1000
+Time is 09:00
+Product P1 info; price 80.0, stock 1000
+Time is 10:00
+Product P1 info; price 80.0, stock 1000
+Campaign C1 info; Status ENDED, Target Sales 100 Total Sales 0, Turnover 0.0, Average Item Price  -
+D:\IntellijIdea\HepsiProject\target\classes\scenarios\SCN2
+Product created; code P1, price 100.0, stock 1000
+Campaign created; name C1, product P1, duration 10, limit 20, target sales count 100
+Order created; product P1, quantity 10
+Product P1 info; price 100.0, stock 990
+Time is 01:00
+Order created; product P1, quantity 15
+Product P1 info; price 95.0, stock 975
+Time is 02:00
+Order created; product P1, quantity 20
+Product P1 info; price 90.0, stock 955
+Time is 03:00
+Order created; product P1, quantity 25
+Product P1 info; price 85.0, stock 930
+Time is 04:00
+Order created; product P1, quantity 30
+Product P1 info; price 80.0, stock 900
+Time is 05:00
+Order created; product P1, quantity 30
+Product P1 info; price 100.0, stock 870
+Time is 06:00
+Order created; product P1, quantity 25
+Product P1 info; price 100.0, stock 845
+Time is 07:00
+Order created; product P1, quantity 20
+Product P1 info; price 100.0, stock 825
+Time is 08:00
+Order created; product P1, quantity 15
+Product P1 info; price 100.0, stock 810
+Time is 09:00
+Order created; product P1, quantity 10
+Product P1 info; price 100.0, stock 800
+Time is 10:00
+Product P1 info; price 100.0, stock 800
+Campaign C1 info; Status ENDED, Target Sales 100 Total Sales 100, Turnover 18750.0, Average Item Price 93.75
+D:\IntellijIdea\HepsiProject\target\classes\scenarios\SCN3
+Product created; code P1, price 100.0, stock 1000
+Campaign created; name C1, product P1, duration 10, limit 20, target sales count 100
+Order created; product P1, quantity 30
+Product P1 info; price 100.0, stock 970
+Time is 01:00
+Order created; product P1, quantity 15
+Product P1 info; price 95.0, stock 955
+Time is 02:00
+Order created; product P1, quantity 3
+Product P1 info; price 90.0, stock 952
+Time is 03:00
+Order created; product P1, quantity 1
+Product P1 info; price 85.0, stock 951
+Time is 04:00
+Order created; product P1, quantity 2
+Product P1 info; price 80.0, stock 949
+Time is 05:00
+Order created; product P1, quantity 1
+Product P1 info; price 80.0, stock 948
+Time is 06:00
+Order created; product P1, quantity 2
+Product P1 info; price 80.0, stock 946
+Time is 07:00
+Product P1 info; price 80.0, stock 946
+Time is 08:00
+Order created; product P1, quantity 20
+Product P1 info; price 80.0, stock 926
+Time is 09:00
+Order created; product P1, quantity 20
+Product P1 info; price 80.0, stock 906
+Time is 10:00
+Product P1 info; price 80.0, stock 906
+Campaign C1 info; Status ENDED, Target Sales 100 Total Sales 94, Turnover 8380.0, Average Item Price 89.14893617021276
+D:\IntellijIdea\HepsiProject\target\classes\scenarios\SCN4
+Product created; code P1, price 100.0, stock 1000
+Campaign created; name C1, product P1, duration 10, limit 20, target sales count 100
+Order created; product P1, quantity 10
+Product P1 info; price 100.0, stock 990
+Time is 01:00
+Order created; product P1, quantity 10
+Product P1 info; price 95.0, stock 980
+Time is 02:00
+Order created; product P1, quantity 9
+Product P1 info; price 90.0, stock 971
+Time is 03:00
+Order created; product P1, quantity 11
+Product P1 info; price 85.0, stock 960
+Time is 04:00
+Order created; product P1, quantity 8
+Product P1 info; price 80.0, stock 952
+Time is 05:00
+Order created; product P1, quantity 12
+Product P1 info; price 80.0, stock 940
+Time is 06:00
+Order created; product P1, quantity 10
+Product P1 info; price 80.0, stock 930
+Time is 07:00
+Order created; product P1, quantity 11
+Product P1 info; price 80.0, stock 919
+Time is 08:00
+Order created; product P1, quantity 9
+Product P1 info; price 80.0, stock 910
+Time is 09:00
+Order created; product P1, quantity 10
+Product P1 info; price 80.0, stock 900
+Time is 10:00
+Product P1 info; price 80.0, stock 900
+Campaign C1 info; Status ENDED, Target Sales 100 Total Sales 100, Turnover 8495.0, Average Item Price 84.95
+Product created; code P1, price 100.0, stock 1000
+Campaign created; name C1, product P1, duration 10, limit 20, target sales count 100
+Product; code null, price 0.0, stock 0
+Product; code null, price 0.0, stock 0
+Product created; code P1, price 100.0, stock 1000
+Campaign created; name C1, product P1, duration 10, limit 20, target sales count 100
+Product; code null, price 0.0, stock 0
+createOrder(HepsiTest): 2
+Product created; code P1, price 100.0, stock 1000
+Campaign created; name C1, product P1, duration 10, limit 20, target sales count 100
+Product; code null, price 0.0, stock 0
+Product created; code P1, price 100.0, stock 1000
+Campaign created; name C1, product P1, duration 10, limit 20, target sales count 100
+Product; code P1, price 100.0, stock 1000
+Product; code null, price 0.0, stock 0
+Product created; code P1, price 100.0, stock 1000
+Campaign created; name C1, product P1, duration 10, limit 20, target sales count 100
+Product; code P1, price 100.0, stock 1000
+createOrder(HepsiTest): 2
+Product; code null, price 0.0, stock 0
+Product created; code P1, price 100.0, stock 1000
+Campaign created; name C1, product P1, duration 10, limit 20, target sales count 100
+Product; code P1, price 100.0, stock 1000
+Product; code P1, price 100.0, stock 1000
+createOrder(HepsiTest): 2
+createOrder2(HepsiTest): 2
+Product; code null, price 0.0, stock 0
+Product created; code P1, price 100.0, stock 1000
+Campaign created; name C1, product P1, duration 10, limit 20, target sales count 100
+Product; code P1, price 100.0, stock 1000
+Product; code P1, price 100.0, stock 1000
+Product created; code P1, price 100.0, stock 1000
+Campaign created; name C1, product P1, duration 10, limit 20, target sales count 100
+Product created; code P1, price 100.0, stock 1000
+Campaign created; name C1, product P1, duration 10, limit 20, target sales count 100
+createOrder(HepsiTest): 2
+createOrder2(HepsiTest): 2
+Product created; code P1, price 100.0, stock 1000
+Campaign created; name C1, product P1, duration 10, limit 20, target sales count 100
+createOrder(HepsiTest): 2
+createOrder2(HepsiTest): 2
+[Ljava.lang.StackTraceElement;@1234336
+Product created; code P1, price 100.0, stock 1000
+Campaign created; name C1, product P1, duration 10, limit 20, target sales count 100
+[Ljava.lang.StackTraceElement;@ca7081
+createOrder(HepsiTest): null
+createOrder2(HepsiTest): expected:<70> but was:<0>
+[Ljava.lang.StackTraceElement;@1d4e49a
+Product created; code P1, price 100.0, stock 1000
+Campaign created; name C1, product P1, duration 10, limit 20, target sales count 100
+[Ljava.lang.StackTraceElement;@67ec28
+createOrder(HepsiTest): expected:<30> but was:<0>
+createOrder2(HepsiTest): expected:<70> but was:<0>
+java.lang.ArrayIndexOutOfBoundsException: 2
+Product created; code P1, price 100.0, stock 1000
+Campaign created; name C1, product P1, duration 10, limit 20, target sales count 100
+java.lang.ArrayIndexOutOfBoundsException: 2
+createOrder(HepsiTest): expected:<30> but was:<0>
+createOrder2(HepsiTest): expected:<70> but was:<0>
+java.lang.ArrayIndexOutOfBoundsException: 2
+Product created; code P1, price 100.0, stock 1000
+Campaign created; name C1, product P1, duration 10, limit 20, target sales count 100
+java.lang.ArrayIndexOutOfBoundsException: 2
+createOrder(HepsiTest): expected:<30> but was:<0>
+createOrder2(HepsiTest): expected:<70> but was:<0>
+Product created; code P1, price 100.0, stock 1000
+Campaign created; name C1, product P1, duration 10, limit 20, target sales count 100
+java.lang.ArrayIndexOutOfBoundsException: 2
+createOrder(HepsiTest): expected:<30> but was:<0>
+createOrder2(HepsiTest): expected:<70> but was:<0>
+Product created; code P1, price 100.0, stock 1000
+Campaign created; name C1, product P1, duration 10, limit 20, target sales count 100
+Product created; code P1, price 100.0, stock 1000
+java.lang.ArrayIndexOutOfBoundsException: 2
+createOrder(HepsiTest): expected:<30> but was:<0>
+createOrder2(HepsiTest): expected:<70> but was:<0>
